@@ -2,7 +2,7 @@ import Link from 'next/link';
 function Home() {
   return (
     <div>
-      <h2>NEXT JS pre-rendering</h2>
+      <h2>NEXT JS</h2>
 
       <Link href='/users' passHref>
         <button>Users</button>
