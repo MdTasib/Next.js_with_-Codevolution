@@ -37,6 +37,7 @@ export async function getStaticPaths() {
         //         params: { postId: '3' }
         //     }
         // ],
+
         paths,
         fallback: true,
     }
