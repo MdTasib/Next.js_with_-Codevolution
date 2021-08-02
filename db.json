@@ -1,4 +1,30 @@
 {
+  "news": [
+    {
+      "id": 1,
+      "title": "Mews Title 1",
+      "price": 9000,
+      "description": "News Description 1"
+    },
+    {
+      "id": 2,
+      "title": "Mews Title 2",
+      "price": 20000,
+      "description": "News Description 2"
+    },
+    {
+      "id": 3,
+      "title": "Mews Title 3",
+      "price": 30000,
+      "description": "News Description 3"
+    },
+    {
+      "id": 4,
+      "title": "Mews Title 4",
+      "price": 40000,
+      "description": "News Description 4"
+    }
+  ],
   "products": [
     {
       "id": 1,
